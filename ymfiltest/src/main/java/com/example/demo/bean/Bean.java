@@ -22,5 +22,6 @@ public class Bean {
 	public void display() {
 		
 		System.out.println("displaying the msgs ");
+		System.out.println("one more time test ");
 	}
 }
