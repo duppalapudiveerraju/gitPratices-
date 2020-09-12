@@ -16,6 +16,7 @@ public class Bean {
 		logger.debug("This is the PostConstrct of bean life cycle method in init method invoke ");
 		System.out.println(" init method calls");
 		display();
+		System.out.println("second commit msg");
 	}
 	
 	public void display() {
