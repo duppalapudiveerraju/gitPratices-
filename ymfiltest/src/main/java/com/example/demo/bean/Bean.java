@@ -23,5 +23,6 @@ public class Bean {
 		
 		System.out.println("displaying the msgs ");
 		System.out.println("one more time test ");
+		System.out.println("two more test commit ");
 	}
 }
